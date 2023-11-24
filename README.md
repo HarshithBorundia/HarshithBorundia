@@ -1,4 +1,4 @@
-### Hi there, I am Haarshith Borundia, student of Economics and Computer Science at BITS Pilani, Hyderabad campus. 👋
+### Hi there, I am Harshith Borundia, student of Economics and Computer Science at BITS Pilani, Hyderabad campus. 👋
 
 <!--
 **HarshithBorundia/HarshithBorundia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
