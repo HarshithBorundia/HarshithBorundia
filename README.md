@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HarshithBorundia)](https://github.com/HarshithBorundia/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=HarshithBorundia&color=red)
 
