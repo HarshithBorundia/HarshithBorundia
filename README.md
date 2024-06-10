@@ -4,8 +4,7 @@
 ### 2.Economics
 ### 3.Finance
 ### 4.Computer Science
-### 5.Data Science
-### 6.Management
+### 5.Management
 
 <!--
 **HarshithBorundia/HarshithBorundia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
