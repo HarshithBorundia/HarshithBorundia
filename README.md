@@ -9,7 +9,6 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently building **MarketLens – Competitive Intelligence Engine**
 - ⚡ Interested in **Systems Design, Blockchain, Cryptography**
 - 💻 Love working with **React, Tailwind, Node.js**
 - 📊 Also explore **Data Analysis & Time Series**
