@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshith Borundia</h1>
-<h3 align="center">🚀 Builder | Full Stack Developer | Systems + Crypto Enthusiast</h3>
+<h3 align="center">🚀 Builder | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshithBorundia&label=Profile%20views&color=0e75b6&style=flat" />
@@ -36,16 +36,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🔍 MarketLens
-> Competitive Intelligence Engine for startups
-
-- 📊 Tracks competitors, pricing, and trends
-- 🧠 AI-powered insights & feature gap analysis
-- 🌐 Built with React + Tailwind + Chart.js
-
-👉 *(Add your repo link here)*
 
 ---
 
